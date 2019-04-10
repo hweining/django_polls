@@ -1,3 +1,9 @@
+<br><br>
+
+<br><br><br><br>
+
+---
+
 # Quick Overview
 If you want to create a poll website with Django, you can achieve this by using a single command:
 ```bash
