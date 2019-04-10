@@ -1,5 +1,5 @@
 # django_polls
-<p align="left"><a href="https://github.com/hweining/django_polls"><image src="https://flat.badgen.net/badge/license/MIT/blue"> </a><a href="https://travisci.com/gh/hweining/django_polls/tree/master"><img src="https://flat.badgen.net/travis/babel/babel" alt="CircleCI"></a>[![hweining twitter](https://badgen.net/badge//@Akimot0_Kazuma/1da1f2?icon=twitter)](https://mobile.twitter.com/Akimot0_Kazuma)
+<p align="left"><a href="https://github.com/hweining/django_polls"><image src="https://flat.badgen.net/badge/license/MIT/blue"> </a>></p>
 <br><br>
   
 # Quick Overview
