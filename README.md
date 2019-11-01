@@ -19,4 +19,4 @@ Then run `docker-compose upor `docker-compose run web python manage.py syncdb` i
 ## Author
 
 **django_polls** © HWEINING, Released under the [MIT](./LICENSE) License.<br>
-Authored and maintained by EGOIST with help from contributors ([list](https://github.com/hweining/django_polls/contributors)).
+Authored and maintained by HWEINING with help from contributors ([list](https://github.com/hweining/django_polls/contributors)).
